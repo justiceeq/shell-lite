@@ -1,0 +1,1 @@
+A basic shell that supports built-in commands, I/O redirection, and pipelining.
